@@ -43,3 +43,6 @@
 
 ## 使用案例圖
 ![UCG](UCG.drawio.png)
+
+## 使用案例說明
+![UCGD](UCGD.png)
