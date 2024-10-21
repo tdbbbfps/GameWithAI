@@ -38,5 +38,8 @@
   - 系統不應該設計得太複雜
   - 使用者可以一看就知道如何操作
 ```
+## 功能分解圖
+![FDD](FDD.drawio.png)
 
-OMGOMGOMG
+## 使用案例圖
+![UCG](UCG.drawio.png)
