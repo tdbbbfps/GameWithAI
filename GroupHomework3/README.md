@@ -39,7 +39,7 @@
   - 使用者可以一看就知道如何操作
 ```
 ## 功能分解圖
-![FDD](FDD.drawio.png)
+![FDD](FDD.png)
 
 ## 使用案例圖
 ![UCG](UCG.drawio.png)
